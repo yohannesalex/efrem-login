@@ -3,6 +3,7 @@ import 'package:equatable/equatable.dart';
 
 import '../../../../core/error/failure.dart';
 import '../../../../core/usecase/usecase.dart';
+
 import '../entity/login_entity.dart';
 import '../repositories/auth_repository.dart';
 
